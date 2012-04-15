@@ -1,0 +1,21 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+backgroundColor	simple.coffee	/^        backgroundColor:'black'$/;"	v
+createSimpleButton	simple.coffee	/^    createSimpleButton:(_title='empty', _fontsize=18, _height='auto', _width='auto', _top='auto', _left='auto')->$/;"	f
+createSimpleLabel	simple.coffee	/^    createSimpleLabel:(_text='empty', _fontsize=18, _textAlign='left', _height='auto', _width='auto', _top='auto', _left='auto')->$/;"	f
+createSimpleView	simple.coffee	/^    createSimpleView:()->$/;"	f
+createSimpleWindow	simple.coffee	/^    createSimpleWindow:(_title='empty')->$/;"	f
+exports.simple	simple.coffee	/^exports.simple = ->$/;"	f
+font	simple.coffee	/^        font:$/;"	v
+fullscreen	app.coffee	/^    fullscreen:true$/;"	v
+height	simple.coffee	/^        height:_height$/;"	v
+navBarHidden	app.coffee	/^    navBarHidden:true$/;"	v
+Simple	app.coffee	/^  Simple = require('simple').simple$/;"	v
+simple	simple.coffee	/^  simple = $/;"	v
+text	simple.coffee	/^        text:_text$/;"	v
+title	simple.coffee	/^        title:_title$/;"	v
+width	simple.coffee	/^        width:_width$/;"	v
